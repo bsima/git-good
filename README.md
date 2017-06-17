@@ -28,8 +28,7 @@ out `man gitworkflows`.
 # Guidelines
 
 - <a name="small-commits"></a>
-Separate commits into small, logical changes. [Avoid large diffs as much as
-possible.][large-diffs]
+Separate commits into small, logical changes. [Avoid large diffs as much as possible.][large-diffs]
 <sup>[link](#small-commits)</sup>
 
 [larg-diffs]: https://medium.com/@kurtisnusbaum/large-diffs-are-hurting-your-ability-to-ship-e0b2b41e8acf#.n2fbjcuob
