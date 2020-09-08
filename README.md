@@ -49,7 +49,7 @@ basically a different take on `rebase`. So, if you want to get good at git
 quick, learn about rebasing - the rest will follow.
 
 - [Git Book chapter on rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
-- [Ryan's tutorial](http://rypress.com/tutorials/git/rebasing)
+- [Ryan's tutorial](http://rypress.com/tutorials/git/rebasing) ([archived link](https://hamwaves.com/collaboration/doc/rypress.com/rebasing.html))
 - [Rebase as an alternative to merge](https://www.youtube.com/watch?v=PnHlnx_nmCI) [video]
 - [Don't be scared of git rebase][leclaire]
 
